@@ -1,4 +1,3 @@
-<h1 align="center">Hi myself, I'm Syed Abdullah Bukhari</h1>
 <h3 align="center">Data Scienctist</h3>
 
 - 🌱 I’m currently learning **machine Learning Frameworks**
