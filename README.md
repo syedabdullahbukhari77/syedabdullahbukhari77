@@ -59,19 +59,22 @@ Currently, I am diving deeper into ***AI frameworks*** and exploring cross-funct
 ## <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="40" /> ***GitHub Stats*** <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?raw=true" width="50"/>
-</p>
 
-
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedabdullahbukhari77&show_icons=true&theme=tokyonight" alt="syed stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedabdullahbukhari77&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=syedabdullahbukhari77&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedabdullahbukhari77&theme=nightowl&hide_border=false" alt="syed streak" />
+</td>
+    <td width="100%"  align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedabdullahbukhari77&layout=compact&theme=nightowl" alt="syed languages" width="72%" />
+    </td>
+</tr>
+</table>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedabdullahbukhari77&layout=compact&theme=tokyonight" alt="syed languages" />
-</p>
+<br>
 
 
 [![](https://komarev.com/ghpvc/?username=syedabdullahbukhari77&label=Profile%20views&color=blueviolet&style=round)](https://github.com/syedabdullahbukhari77)
